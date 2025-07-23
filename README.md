@@ -16,9 +16,8 @@
 - 💬 Gosto de compartilhar aprendizados e desafios superados no desenvolvimento
 
 ### 🌐 Redes
-
 <p>
-  <a href="www.linkedin.com/in/ingryd-aylana-silva-dos-santos-4a2701158" target="_blank">
+  <a href="https://www.linkedin.com/in/ingryd-aylana-silva-dos-santos-4a2701158" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
