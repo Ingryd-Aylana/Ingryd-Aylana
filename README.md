@@ -9,9 +9,9 @@
 ---
 
 ### 🚀 Sobre mim
-- 📚 Formada em Desenvolvimento Front-End em constante atualização.
+- 📚 Em formação em Desenvolvimento Full Stack em constante atualização.
 - 🌱 Atualmente estou estudando **TypeScript** e **Node.js**
-- 💼 Tenho experiência com **HTML**, **CSS**, **JavaScript**, **React**, **Git**, e **consumo de APIs**
+- 💼 Tenho experiência com **HTML**, **CSS**, **JavaScript**, **React**, **Git**, **Bootstrap e Sass** , **Tailwind", e **consumo de APIs**
 - 🧠 Curiosa por **UX/UI**, boas práticas de código e acessibilidade
 - 💬 Gosto de compartilhar aprendizados e desafios superados no desenvolvimento
 
