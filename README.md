@@ -9,9 +9,10 @@
 ---
 
 ### 🚀 Sobre mim
+- 📚 Formação em Marketing e Pós-Graduação em Engenharia de Software em andamento.
 - 📚 Em formação em Desenvolvimento Full Stack em constante atualização.
 - 🌱 Atualmente estou estudando **TypeScript** e **Node.js**
-- 💼 Tenho experiência com **HTML**, **CSS**, **JavaScript**, **React**, **Angular**, **Git**, **Bootstrap e Sass** , **Tailwind**, e **consumo de APIs**
+- 💼 Tenho experiência com **HTML**, **CSS**, **JavaScript**, **React**, **Angular**, **Git**, **Bootstrap e Sass** , **Tailwind**,**consumo de APIs** , e **Python**
 - 🧠 Curiosa por **UX/UI**, boas práticas de código e acessibilidade
 - 💬 Gosto de compartilhar aprendizados e desafios superados no desenvolvimento
 
