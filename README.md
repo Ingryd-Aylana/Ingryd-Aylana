@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou a Ingryd Aylana</h1>
-<h3 align="center">Desenvolvedora Front-End Júnior</h3>
+<h3 align="center">Desenvolvedora Front-End </h3>
 
 <p align="center">
   Apaixonada por transformar ideias em interfaces intuitivas e responsivas. 
